@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="edit_url">Please enter the URL you want to visit.</string>
+    <string name="btn_browse">Visit the website</string>
+</resources>
