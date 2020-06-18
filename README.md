@@ -1,4 +1,4 @@
-#### 实验一:Hello World:[](https://github.com/rusb1994/Android/tree/master/Helloworld)
+#### 实验一:Hello World:[Hello World](https://github.com/rusb1994/Android/tree/master/Helloworld)
 
 
 
@@ -12,7 +12,7 @@
 
 #### 实验三：UI：
 
-[]: https://github.com/rusb1994/Android/tree/master/UI
+[UI]: https://github.com/rusb1994/Android/tree/master/UI
 
 
 
